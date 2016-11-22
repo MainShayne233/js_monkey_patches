@@ -2,7 +2,6 @@ require('../lib/string_patches.js')
 
 var assert = require('assert')
 
-
 describe('String', function() {
 
   describe('#reverse()', function() {
